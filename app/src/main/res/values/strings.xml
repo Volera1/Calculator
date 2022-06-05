@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="ten">10</string>
+    <string name="FirstSystemOfNumbers">Первоначальная система счисления</string>
+    <string name="NameOfApp">Калькулятор</string>
+    <string name="SecondSystemOfNumbers">Необходимая система счисления</string>
+    <string name="InputFirtsNumber">Введите первое число</string>
+</resources>
